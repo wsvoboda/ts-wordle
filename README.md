@@ -1,1 +1,1 @@
-# TypeScript Wordle Projecy
+# TypeScript Wordle Project
